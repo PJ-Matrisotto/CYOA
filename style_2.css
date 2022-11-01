@@ -4,12 +4,7 @@
 
 body{font-size: medium;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-font-weight: 300;background-color: rgb(132,132,130);color: black;}
-
-
-h1{padding: 0 0 0 0 ;
-    margin: 0 0 0 0;
-    position: absolute;left:80px;}
+font-weight: 300;background-color: rgb(132,132,130);color: rgb(0, 0, 0);}
     
 a{color: white;}
 
@@ -24,7 +19,7 @@ color:rgb(199, 19, 6);
     position: absolute;
     top: 20px;
     left: 30%;}
-    #Choice-3{
+        #Choice-3{
         position:absolute;
         top: 255px;
         left: 30%;
@@ -43,3 +38,4 @@ color:rgb(199, 19, 6);
         padding: 15px;
         color:whitesmoke}
     strong#rp{color: purple; font-family: 'IBM Plex Mono', monospace;}
+    #scene-2>p{text-align: center;font-size: 15px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;position: absolute;top: 400px;left: auto;}
