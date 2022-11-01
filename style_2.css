@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=IBM+Plex+Mono:ital,wght@1,600&display=swap');
+
+
+
+body{font-size: medium;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 300;background-color: rgb(132,132,130);color: black;}
+
+
+h1{padding: 0 0 0 0 ;
+    margin: 0 0 0 0;
+    position: absolute;left:80px;}
+    
+a{color: white;}
+
+strong#Unknown{ 
+color:rgb(199, 19, 6);
+    font-family: 'Gemunu Libre', sans-serif; 
+    font-size: 25px;
+    font-weight: 400;}
+#scene-2{background: url("Background_2.jpg") no-repeat;
+    height: 336px; width: 512px;
+    color: rgb(65, 17, 17);
+    position: absolute;
+    top: 20px;
+    left: 30%;}
+    #Choice-3{
+        position:absolute;
+        top: 255px;
+        left: 30%;
+        background-color:rgba(0,0,0,.5);
+        width: 482px;
+        text-align: center;
+        padding: 15px;
+        color:whitesmoke ;}
+    #Choice-4{
+       position:absolute;
+        top: 305px;
+        left: 30%;
+        background-color:rgba(0,0,0,.5);
+        width: 482px;
+        text-align: center;
+        padding: 15px;
+        color:whitesmoke}
+    strong#rp{color: purple; font-family: 'IBM Plex Mono', monospace;}
