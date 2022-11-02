@@ -1,3 +1,4 @@
 body{background-color: black;color: bisque;}
 div#end{display: block;position: absolute;top: 5%;left: 5%;font-size: xx-large;}
 div#end>a{font-size: 50px;}
+div#end>p{color: beige;}

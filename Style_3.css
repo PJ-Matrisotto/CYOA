@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&family=IBM+Plex+Mono:ital,wght@1,600&display=swap');
+
+
+
+body{font-size: medium;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 300;background-color: rgb(79, 170, 70);color: rgb(0, 0, 0);}
+    
+a{color: white;}
+
+strong#Unknown{ 
+color:rgb(199, 19, 6);
+    font-family: 'Gemunu Libre', sans-serif; 
+    font-size: 25px;
+    font-weight: 400;}
+#scene-3{background: url("Background_3.png") no-repeat;
+    height: 100%; width: 100%;
+    color: rgb(65, 17, 17);
+    position: absolute;
+    top: 20px;
+    left: 30%;}
+        #Choice-6{
+        position:absolute;
+        top: 255px;
+        left: 30%;
+        background-color:rgba(0,0,0,.5);
+        width: 482px;
+        text-align: center;
+        padding: 15px;
+        color:whitesmoke ;}
+        #Choice-7{
+       position:absolute;
+        top: 305px;
+        left: 30%;
+        background-color:rgba(0,0,0,.5);
+        width: 482px;
+        text-align: center;
+        padding: 15px;
+        color:whitesmoke}
+        #Choice-8{
+            position:absolute;
+             top: 305px;
+             left: 30%;
+             background-color:rgba(0,0,0,.5);
+             width: 482px;
+             text-align: center;
+             padding: 15px;
+             color:whitesmoke}
+    strong#rp{color: purple; font-family: 'IBM Plex Mono', monospace;}
+    #scene-2>p{text-align: center;font-size: 15px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;position: absolute;top: 400px;left: auto;}
